@@ -1,6 +1,6 @@
 Challenge from "React - The Complete Guide (incl Hooks, React Router, Redux)" on Udemy.
 
-More here: http://www.mathildepeiffer.com/reactfood
+More here: http://www.mathildepeiffer.com/reactfood 
 
 🌮🌭
 
